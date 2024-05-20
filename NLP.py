@@ -45,9 +45,3 @@ y_pred = clf.predict(X_tfidf_test)
 Overall_rating = test_data['Pred_Rating'].mean()
 actual = test_data['Rating'].mean()
 accuracy = accuracy_score(test_data[1], y_pred)
-
-
-
-
-
-
