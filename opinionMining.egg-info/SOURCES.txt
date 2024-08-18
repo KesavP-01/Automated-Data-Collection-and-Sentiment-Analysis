@@ -1,0 +1,14 @@
+setup.py
+models/__init__.py
+models/model.py
+models/modelEvaluate.py
+models/modelTrain.py
+models/preprocessing.py
+opinionMining.egg-info/PKG-INFO
+opinionMining.egg-info/SOURCES.txt
+opinionMining.egg-info/dependency_links.txt
+opinionMining.egg-info/top_level.txt
+script/__init__.py
+script/dataPrep.py
+script/movieName.py
+script/movieReviews.py
